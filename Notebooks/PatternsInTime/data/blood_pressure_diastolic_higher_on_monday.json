@@ -1,0 +1,102 @@
+[
+    {
+        "diastolic_blood_pressure": 61,
+        "timestamp": "2024-01-01T15:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 56,
+        "timestamp": "2024-01-02T11:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 50,
+        "timestamp": "2024-01-11T11:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 54,
+        "timestamp": "2024-01-12T05:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 55,
+        "timestamp": "2024-01-13T12:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 57,
+        "timestamp": "2024-01-17T23:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 55,
+        "timestamp": "2024-01-19T11:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 60,
+        "timestamp": "2024-01-20T17:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 53,
+        "timestamp": "2024-01-23T17:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 70,
+        "timestamp": "2024-01-29T06:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 54,
+        "timestamp": "2024-01-30T10:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 56,
+        "timestamp": "2024-02-04T04:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 51,
+        "timestamp": "2024-02-10T09:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 60,
+        "timestamp": "2024-02-12T22:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 53,
+        "timestamp": "2024-02-13T04:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 56,
+        "timestamp": "2024-02-14T12:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 56,
+        "timestamp": "2024-02-20T07:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 58,
+        "timestamp": "2024-03-06T17:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 60,
+        "timestamp": "2024-03-07T06:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 60,
+        "timestamp": "2024-03-10T01:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 60,
+        "timestamp": "2024-03-11T09:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 56,
+        "timestamp": "2024-03-12T14:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 58,
+        "timestamp": "2024-03-15T19:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 60,
+        "timestamp": "2024-03-18T23:00:00"
+    },
+    {
+        "diastolic_blood_pressure": 54,
+        "timestamp": "2024-03-19T20:00:00"
+    }
+]
